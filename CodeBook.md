@@ -34,7 +34,7 @@ variables 3 to 68: Averages (mean) of the variables 3:68 from the tidy dataset 1
 
 6. Repeat steps 1:5 for the test dataset using the files corresponding to the test data.
 
-7. Merge training and test datasets obtained using above steps.
+7. Merge (via row binding) training and test datasets obtained using above steps.
 
 8. Extract the columns relating to subject ID, activity label and all variables relating to feature mean() and std() calculations from the merged dataset.
 
