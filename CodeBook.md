@@ -19,3 +19,7 @@ variable 2: activity - Factor with 6 levels corresponding to activities WALKING,
 variables 3 to 68: Averages (mean) of the variables 3:68 from the tidy dataset 1 for each activity and each subject.Variable names from tidy dataset 1 are prefixed with "Average" to name these variables since they are average values.
 
 ## Transformations carried out to generate tidy data from raw data
+
+### Transformations on raw data to obtain Tidy dataset 1: <i>mean_std_merged_data</i> 
+
+### Transformations on raw data to obtain Tidy dataset 2: <i>tidy_data_averages</i> 
